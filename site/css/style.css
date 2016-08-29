@@ -3,7 +3,7 @@
   width: 100%;
 }
 /********** Large devices only **********/
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   .col-lg-4 {
     width: 31.73%;
     float: left;
